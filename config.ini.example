@@ -1,0 +1,16 @@
+[SERVER]
+plexHost = http://X.X.X.X:32400
+plexToken = XXXXXXXXXXXXXXXXXXX
+plexLibraryName = Library Name Here
+
+
+[OPTIONS]
+debugging = False
+dryRun = True
+tryAltTitleIfNoEpisodeIndicator = False
+seriesTitle = Series Title Here
+seriesYear = 0
+
+# dryRun:                                         test script to view output without committing title changes to Plex
+# tryAltTitleIfNoEpisodeIndicator:                try finding title base start from a "-" or "\" if S0xE0x isn't found in the file name
+# seriesYear:                                     not required, use if there's multiple shows of the same name you need to narrow down
