@@ -41,6 +41,6 @@ Mainly meant to be used for unmatched series.
 | Config Setting         | How it Works |
 |-----------------------:|-----------|
 | Dry Run | Test script to view output without committing title changes to Plex|
-| Try Alt Title if No Episode Indicator | Try finding title base start from a "-" or "\" if S0xE0x isn't found in the file name    |
+| Try Alt Title if No Episode Indicator | Try finding title base start from a "-" or "\\" if S0xE0x isn't found in the file name    |
 | Series Year | Not required, use if there's multiple shows of the same name you need to narrow down    |
 
